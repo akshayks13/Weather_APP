@@ -15,7 +15,7 @@ Explore the live Weather App here:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/akshayks13/weather-app.git
+   git clone https://github.com/akshayks13/Weather_APP.git
 2.Open index.html in your browser to launch the app.
 
 ## License
