@@ -4,7 +4,7 @@ A dynamic and responsive weather application built using **HTML**, **CSS**, and 
 
 ## Live Demo
 Explore the live Weather App here:  
-👉 [Weather App]((https://akshayks13.github.io/Weather_APP/))
+👉 [Weather App][(https://akshayks13.github.io/Weather_APP/))]
 
 ## Features
 - **Real-Time Weather Updates**: Displays current weather conditions like temperature, humidity, and wind speed.
