@@ -19,4 +19,5 @@ Explore the live Weather App here:
 2.Open index.html in your browser to launch the app.
 
 ## License
-  This project is licensed under the MIT License. See the LICENSE file for details.
+   This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
+   ![MIT License](https://img.shields.io/badge/License-MIT-blue.svg)
